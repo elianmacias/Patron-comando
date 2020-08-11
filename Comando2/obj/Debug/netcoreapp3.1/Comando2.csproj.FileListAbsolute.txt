@@ -1,0 +1,13 @@
+C:\Users\elian\source\repos\Comando2\Comando2\bin\Debug\netcoreapp3.1\Comando2.exe
+C:\Users\elian\source\repos\Comando2\Comando2\bin\Debug\netcoreapp3.1\Comando2.deps.json
+C:\Users\elian\source\repos\Comando2\Comando2\bin\Debug\netcoreapp3.1\Comando2.runtimeconfig.json
+C:\Users\elian\source\repos\Comando2\Comando2\bin\Debug\netcoreapp3.1\Comando2.runtimeconfig.dev.json
+C:\Users\elian\source\repos\Comando2\Comando2\bin\Debug\netcoreapp3.1\Comando2.dll
+C:\Users\elian\source\repos\Comando2\Comando2\bin\Debug\netcoreapp3.1\Comando2.pdb
+C:\Users\elian\source\repos\Comando2\Comando2\obj\Debug\netcoreapp3.1\Comando2.csprojAssemblyReference.cache
+C:\Users\elian\source\repos\Comando2\Comando2\obj\Debug\netcoreapp3.1\Comando2.AssemblyInfoInputs.cache
+C:\Users\elian\source\repos\Comando2\Comando2\obj\Debug\netcoreapp3.1\Comando2.AssemblyInfo.cs
+C:\Users\elian\source\repos\Comando2\Comando2\obj\Debug\netcoreapp3.1\Comando2.csproj.CoreCompileInputs.cache
+C:\Users\elian\source\repos\Comando2\Comando2\obj\Debug\netcoreapp3.1\Comando2.dll
+C:\Users\elian\source\repos\Comando2\Comando2\obj\Debug\netcoreapp3.1\Comando2.pdb
+C:\Users\elian\source\repos\Comando2\Comando2\obj\Debug\netcoreapp3.1\Comando2.genruntimeconfig.cache
